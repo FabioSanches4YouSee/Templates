@@ -1,2 +1,3 @@
 # Templates
-Esse arquivo pode ser usado para implementar o template de Em Breve
+O arquivo EmBreve.zip pode ser usado para implementar o template Em Breve de cinemas;
+O arquivo EmCartaz.zip pode ser usado para implementar o template Em Cartaz de cinemas;
